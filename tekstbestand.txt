@@ -1,2 +1,6 @@
 Testing
+<<<<<<< HEAD
 wijziging lokaal
+=======
+Omdat het kan.
+>>>>>>> df908d5f906e5284d454c2ee756b2fcb9360c72d
